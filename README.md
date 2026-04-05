@@ -220,7 +220,7 @@ budget-quarterly-report/
 
 ## 10. 📌 Requirements to files
 
-### app.py
+### streamlit_app.py
 
 * main UI logic
 * challenges functions
